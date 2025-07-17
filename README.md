@@ -35,6 +35,26 @@ Revenue Analysis: Displayed both absolute revenue (e.g., $ values) and percentag
 - Monthly Revenue Change: Peak months (Jan, Mar, Jul) generated 37.4%
 - Weekly Revenue Contribution: Slightly higher on weekdays (72.6%) than weekends (27.4%)
 
+## Strategic Recommendations
+
+1. **Double Down on Premium Products**  
+   With nearly 90% of revenue coming from the expensive product category, there’s strong justification to expand or promote premium biscuit offerings.
+
+2. **Target Key Customer Segments**  
+   Focus marketing and promotional efforts on male customers and the 30–44 & 60–74 age groups, who are driving the majority of revenue.
+
+3. **Leverage Top Performers and High-Value Accounts**  
+   Replicate successful strategies from top performers like Travis Doyle and high-value customers such as Robert Hernandez to boost overall sales effectiveness.
+
+4. **Invest in San Antonio and Similar Markets**  
+   Given San Antonio’s leading $7.3M revenue contribution, it’s a prime candidate for localized campaigns. Consider expanding into similar high-performing urban markets.
+
+5. **Capitalize on Seasonal Trends**  
+   Maximize revenue during peak months (January, March, July) through advanced campaign planning, inventory readiness, and seasonal product bundles.
+
+6. **Boost Weekend Sales Performance**  
+   Since only 27.4% of revenue comes from weekends, introducing weekend-only offers or family-themed promotions could help balance performance across the week.
+
 ### Supporting Files
 
 - [📥 B&J Biscuit Practice Dataset (Excel)](./B&J%20Buscuit%20Practice%20Dataset.xlsx)
